@@ -114,9 +114,17 @@ The **AI Invoice Generator** is a cutting-edge web application that revolutioniz
 ![Dashboard](screenshots/dashboard.png)
 *Clean, modern dashboard with real-time metrics and quick actions*
 
+### Invoice Generator
+![Invoice Editor](screenshots/invoice-generator.png)
+*Intuitive invoice creation with AI-powered suggestions*
+
 ### Invoice Editor
 ![Invoice Editor](screenshots/invoice-editor.png)
-*Intuitive invoice creation with AI-powered suggestions*
+*Intuitive invoice editor*
+
+### Invoice Export
+![Invoice Editor](screenshots/invoice-export.png)
+*Export Invoice*
 
 ### Client Management
 ![Client Management](screenshots/client-management.png)
@@ -129,10 +137,6 @@ The **AI Invoice Generator** is a cutting-edge web application that revolutioniz
 ### Settings Panel
 ![Settings](screenshots/settings.png)
 *Customizable business settings and preferences*
-
-### Mobile Responsive
-![Mobile View](screenshots/mobile-responsive.png)
-*Fully responsive design optimized for all devices*
 
 ---
 
